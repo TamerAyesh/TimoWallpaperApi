@@ -1,16 +1,32 @@
-# wallpaperflutterapi
+# Title
 
-A new Flutter application.
+TimoWallpaperApp is app that you can view and search for amazing wallpapers provided by the Pexels API. Was applied by Flutter.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+The Used API: pexels.com/api
 
-A few resources to get you started if this is your first Flutter project:
+The App Has:
+- Home Interface
+- Search Interface
+- Categories Interfaces
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Note: you need to provide pexels api key for application work well with you. Located at (lib/data/tools.dart)**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Support Me
+![](https://user-images.githubusercontent.com/38374139/82101919-8c787280-9716-11ea-88fb-2dfe98eafb3c.png)
+[Buy Me A Coffee (Support Me)](https://www.patreon.com/tamerayesh)
+
+### Cover
+<img src="https://user-images.githubusercontent.com/38374139/84013917-3e0b6c00-a982-11ea-9e39-6c075ed4906a.png">
+
+### GIFs
+<img src="https://user-images.githubusercontent.com/38374139/84013437-968e3980-a981-11ea-9f11-168adfac1230.gif" height=600 width=300><img src="https://user-images.githubusercontent.com/38374139/84013627-d9501180-a981-11ea-9914-4e00ce784ab3.gif" height=600 width=300>
+
+
+### Support Me
+![](https://user-images.githubusercontent.com/38374139/82101919-8c787280-9716-11ea-88fb-2dfe98eafb3c.png)
+[Buy Me A Coffee (Support Me)](https://www.patreon.com/tamerayesh)
+
+### By: Tamer M. Ahmad
+
